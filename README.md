@@ -14,5 +14,3 @@ I’m a Computer Science freshman who lives at the intersection of logical probl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PIXELBROWNIE&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
